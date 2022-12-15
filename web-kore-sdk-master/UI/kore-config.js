@@ -26,7 +26,7 @@
     botOptions.enableThemes = true;
     “clientSecret”: “I/evsEyo0OvP7+4WSix1grxKjhQaywOdSxjRd/GxVqw=”
 $.ajax({
-   url: “http://localhost:3000/api/users/getJWT”,
+   url: “https://carrerwhizz.github.io/careerwhizz/”,
      //this is sample url of a localhost. 
      //This should include the url where you are hosting the bot.
    botOptions.userIdentity = ‘I/evsEyo0OvP7+4WSix1grxKjhQaywOdSxjRd/GxVqw= ‘;
